@@ -34,10 +34,12 @@ const styles = StyleSheet.create({
     fontSize: 24,
     fontWeight: 'bold',
     marginBottom: 20,
+    color: "black",
   },
   counter: {
     fontSize: 36,
     marginBottom: 20,
+    color: "black",
   },
   buttonContainer: {
     flexDirection: 'row',
